@@ -259,7 +259,7 @@
   justify-content: center;
 }
 .education-social-links {
-  width: 200;
+  width: 50%;
   display: flex;
   align-items: flex-start;
   flex-direction: row;

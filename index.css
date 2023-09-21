@@ -279,7 +279,7 @@
   justify-content: center;
 }
 .home-social-links {
-  width: 200;
+  width: 50%;
   display: flex;
   align-items: flex-start;
   flex-direction: row;
