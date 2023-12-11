@@ -251,6 +251,16 @@
   height: 24px;
   text-decoration: none;
 }
+
+.imgcontainer{
+ width:50%;
+ padding-top:5vh;
+}
+
+.imgcontainer img{
+ width:100%;
+}
+
 @media(max-width: 767px) {
   .software-burger-menu {
     display: flex;
@@ -262,6 +272,9 @@
   }
   .software-links-container {
     display: none;
+  }
+  .imgcontainer{
+    width:80%;
   }
 }
 @media(max-width: 479px) {
@@ -287,6 +300,9 @@
   .software-link07 {
     margin-bottom: var(--dl-space-space-unit);
     text-transform: uppercase;
+  }
+  .imgcontainer{
+    width:90%;
   }
 }
 
